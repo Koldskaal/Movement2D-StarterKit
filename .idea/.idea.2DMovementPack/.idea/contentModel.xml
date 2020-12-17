@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\avivt\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\avivt\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_2DMovementPack.-1191834751.00" t="ExcludeRecursive" />
+    <e p="C:\Users\avivt\Documents\Projects\UnityGames\2DMovementPack" t="IncludeRecursive">
+      <e p="2DMovementPack.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="ConsolePro" t="Include">
+            <e p="ConsoleProDebug.cs" t="Include" />
+            <e p="Remote" t="Include">
+              <e p="ConsoleProRemoteServer.cs" t="Include" />
+              <e p="LiteNetLib" t="Include">
+                <e p="FastBitConverter.cs" t="Include" />
+                <e p="INetEventListener.cs" t="Include" />
+                <e p="NatPunchModule.cs" t="Include" />
+                <e p="NetConstants.cs" t="Include" />
+                <e p="NetDataReader.cs" t="Include" />
+                <e p="NetDataWriter.cs" t="Include" />
+                <e p="NetDebug.cs" t="Include" />
+                <e p="NetEndPoint.cs" t="Include" />
+                <e p="NetManager.cs" t="Include" />
+                <e p="NetPacket.cs" t="Include" />
+                <e p="NetPacketPool.cs" t="Include" />
+                <e p="NetPeer.cs" t="Include" />
+                <e p="NetPeerCollection.cs" t="Include" />
+                <e p="NetSerializer.cs" t="Include" />
+                <e p="NetSocket.cs" t="Include" />
+                <e p="NetThread.cs" t="Include" />
+                <e p="NetUtils.cs" t="Include" />
+                <e p="NtpSyncModule.cs" t="Include" />
+                <e p="ReliableChannel.cs" t="Include" />
+                <e p="SequencedChannel.cs" t="Include" />
+                <e p="SimpleChannel.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Ludiq" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="YamlDotNet.xml" t="Include" />
+            </e>
+            <e p="Bolt" t="Include">
+              <e p="Documentation" t="Include">
+                <e p="0. READ ME FIRST.txt" t="Include" />
+              </e>
+              <e p="LICENSES.txt" t="Include" />
+            </e>
+            <e p="Ludiq.Core" t="Include">
+              <e p="DotNetDocumentation" t="Include">
+                <e p="Microsoft.Build.Conversion.v3.5.xml" t="Include" />
+                <e p="Microsoft.Build.Engine.xml" t="Include" />
+                <e p="Microsoft.Build.Framework.xml" t="Include" />
+                <e p="Microsoft.Build.Utilities.v3.5.xml" t="Include" />
+                <e p="Microsoft.VisualC.STLCLR.xml" t="Include" />
+                <e p="mscorlib.xml" t="Include" />
+                <e p="System.AddIn.Contract.xml" t="Include" />
+                <e p="System.AddIn.xml" t="Include" />
+                <e p="System.ComponentModel.DataAnnotations.xml" t="Include" />
+                <e p="System.Configuration.Install.xml" t="Include" />
+                <e p="System.Configuration.xml" t="Include" />
+                <e p="System.Core.xml" t="Include" />
+                <e p="System.Data.DataSetExtensions.xml" t="Include" />
+                <e p="System.Data.Entity.Design.xml" t="Include" />
+                <e p="System.Data.Entity.xml" t="Include" />
+                <e p="System.Data.Linq.xml" t="Include" />
+                <e p="System.Data.Services.Client.xml" t="Include" />
+                <e p="System.Data.Services.Design.xml" t="Include" />
+                <e p="System.Data.Services.xml" t="Include" />
+                <e p="System.Data.SqlXml.xml" t="Include" />
+                <e p="System.Data.xml" t="Include" />
+                <e p="System.Deployment.xml" t="Include" />
+                <e p="System.DirectoryServices.AccountManagement.xml" t="Include" />
+                <e p="System.DirectoryServices.xml" t="Include" />
+                <e p="System.Drawing.xml" t="Include" />
+                <e p="System.EnterpriseServices.xml" t="Include" />
+                <e p="System.IdentityModel.xml" t="Include" />
+                <e p="System.Management.Instrumentation.xml" t="Include" />
+                <e p="System.Management.xml" t="Include" />
+                <e p="System.Messaging.xml" t="Include" />
+                <e p="System.Net.xml" t="Include" />
+                <e p="System.Printing.xml" t="Include" />
+                <e p="System.Runtime.Remoting.xml" t="Include" />
+                <e p="System.Runtime.Serialization.Formatters.Soap.xml" t="Include" />
+                <e p="System.Runtime.Serialization.xml" t="Include" />
+                <e p="System.Security.xml" t="Include" />
+                <e p="System.ServiceModel.Web.xml" t="Include" />
+                <e p="System.ServiceModel.xml" t="Include" />
+                <e p="System.ServiceProcess.xml" t="Include" />
+                <e p="System.Transactions.xml" t="Include" />
+                <e p="System.Web.Abstractions.xml" t="Include" />
+                <e p="System.Web.DynamicData.Design.xml" t="Include" />
+                <e p="System.Web.DynamicData.xml" t="Include" />
+                <e p="System.Web.Entity.Design.xml" t="Include" />
+                <e p="System.Web.Entity.xml" t="Include" />
+                <e p="System.Web.Extensions.Design.xml" t="Include" />
+                <e p="System.Web.Extensions.xml" t="Include" />
+                <e p="System.Web.Routing.xml" t="Include" />
+                <e p="System.Web.Services.xml" t="Include" />
+                <e p="System.Windows.Forms.xml" t="Include" />
+                <e p="System.Windows.Presentation.xml" t="Include" />
+                <e p="System.WorkflowServices.xml" t="Include" />
+                <e p="System.xml" t="Include" />
+                <e p="System.Xml.Linq.xml" t="Include" />
+                <e p="System.Xml.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="RainbowAssets" t="Include">
+            <e p="!Core" t="Include">
+              <e p="NOTICES.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="link.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Odin Inspector" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssemblyImportSettingsAutomation.cs" t="Include" />
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="FixBrokenUnityObjectWrapperDrawer.cs" t="Include" />
+                  <e p="SyncListDrawer.cs" t="Include" />
+                  <e p="SyncVarAttributeDrawer.cs" t="Include" />
+                  <e p="Vector2IntMinMaxAttributeDrawer.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                  <e p="VectorIntPropertyResolvers.cs" t="Include" />
+                </e>
+                <e p="SerializedNetworkBehaviour.cs" t="Include" />
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Controller2D.cs" t="Include" />
+          <e p="PlatformerController2D.cs" t="Include" />
+          <e p="PlayerPlatformer.cs" t="Include" />
+          <e p="PlayerTopdown.cs" t="Include" />
+          <e p="RaycastController.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="Controls" t="Include">
+            <e p="PlayerControls.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
