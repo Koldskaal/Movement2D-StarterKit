@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Sirenix.OdinInspector;
 using UnityEngine.InputSystem;
 
 [RequireComponent (typeof (PlatformerController2D))]
